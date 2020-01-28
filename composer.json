@@ -1,5 +1,5 @@
 {
-    "name": "charlottedunois/validator",
+    "name": "sub1to/validator",
     "type": "library",
     "description": "PHP Validator for stuff.",
     "keywords": [ "validation" ],
